@@ -5,5 +5,5 @@ HEAD
 	System.out.print("Alternate Hello World best of both");
  branch 'master' of https://github.com/adumasiv/GitHubEclipseSolo
 	}
-	//
+	////
 }
